@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hello, my name is Bashar! 👋</h1>
+<h3 align="center">I am currently pursuing a Computer Science degree at UNC Charlotte!</h3>
 
-<!--
-**b0shy/b0shy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=b0shy" alt="b0shy" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Software Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **boshyshabani@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+https://www.linkedin.com/in/bashar-shabani-206797174
+</p>
