@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b0shy" alt="b0shy" /> </p>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently studying **Software Engineering**
 
 - 📫 How to reach me **boshyshabani@gmail.com**
 
