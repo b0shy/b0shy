@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Bashar! 👋</h1>
-<h3 align="center">I am currently studying a Computer Science degree at UNC Charlotte!</h3>
+<h3 align="center">I am currently studying for a Computer Science degree at UNC Charlotte!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b0shy" alt="b0shy" /> </p>
 
